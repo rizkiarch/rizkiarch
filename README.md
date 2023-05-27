@@ -30,10 +30,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizkiarch&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiarch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/rizkiarch">
+<!-- <a href="https://github.com/rizkiarch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkiarch&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiarch&theme=noctis_minimus&layout=compact" />
-</a>
+</a> -->
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
