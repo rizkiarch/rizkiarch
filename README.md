@@ -12,6 +12,7 @@
 </h1>
 
 ### :hammer_and_wrench: Languages and Tools :
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel) ![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER-05122A?style=flat&logo=codeigniter)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ---
