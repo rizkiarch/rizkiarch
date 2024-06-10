@@ -12,7 +12,8 @@
 </h1>
 
 ### Languages & Tools 🛠
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel) ![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER-05122A?style=flat&logo=codeigniter) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap) ![TAILWIND](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp; 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel) ![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER-05122A?style=flat&logo=codeigniter) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap) ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ---
