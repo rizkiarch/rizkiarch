@@ -12,7 +12,7 @@
 </h1>
 
 ### Languages & Tools 🛠
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel) ![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER-05122A?style=flat&logo=codeigniter) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap) ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp; 
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![LARAVEL](https://img.shields.io/badge/-LARAVEL-05122A?style=flat&logo=laravel) ![CODEIGNITER](https://img.shields.io/badge/-CODEIGNITER-05122A?style=flat&logo=codeigniter) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-05122A?style=flat&logo=bootstrap) ![TAILWIND](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp; 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ---
