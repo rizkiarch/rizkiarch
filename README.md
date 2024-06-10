@@ -18,8 +18,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ---
+### Let's connect ? 🤝
+
+<p align="left">
+<a href="https://www.linkedin.com/in/muhamad-rizki-personal/"><img src="https://img.shields.io/badge/-rizkiarchd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:muhamadrizki.dev@gmail.com"><img src="https://img.shields.io/badge/-muhamadrizki.dev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
  📈 &nbsp;My GitHub History!
- ![Snake animation](https://github.com/rizkiarch/rizkiarch/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rizkiarch/rizkiarch/blob/output/github-contribution-grid-snake.svg) 
 <!-- <a href="https://github.com/rizkiarch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rizkiarch&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiarch&theme=noctis_minimus&layout=compact" />
